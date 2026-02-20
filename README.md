@@ -1,6 +1,6 @@
-# japer-technology/gitclaw
+# japer-technology/gitclaw 🦞 Testing
 
-###  A Drop-In AI Agent
+###  Testing a drop-in AI Agent
 
 <p align="center">
   <picture>
